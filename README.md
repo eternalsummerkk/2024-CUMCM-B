@@ -1,2 +1,4 @@
-# mathmatic model
-自己搭的数学模型（mathmatic model）
+# 2024 CUMCM-B SCU-NO.24 groups
+2024年全国大学生数学建模大赛 海关学院 第24组作品
+时间戳：2024年9月8日19：24
+组员：柯文、张嘉伟、蔡培玮
